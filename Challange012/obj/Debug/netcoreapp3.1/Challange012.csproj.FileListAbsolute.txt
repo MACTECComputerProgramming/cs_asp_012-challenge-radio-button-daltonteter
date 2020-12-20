@@ -1,0 +1,5 @@
+C:\Users\maconrm180\Documents\Brentyns Work\Challange012\obj\Debug\netcoreapp3.1\Challange012.csprojAssemblyReference.cache
+C:\Users\maconrm180\Documents\Brentyns Work\Challange012\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\maconrm180\Documents\Brentyns Work\Challange012\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\maconrm180\Documents\Brentyns Work\Challange012\obj\Debug\netcoreapp3.1\Challange012_MarkupCompile.cache
+C:\Users\maconrm180\Documents\Brentyns Work\Challange012\obj\Debug\netcoreapp3.1\Challange012_MarkupCompile.lref

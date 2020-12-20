@@ -1,0 +1,21 @@
+﻿<Window x:Class="Challange012.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Challange012"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <RadioButton x:Name="bnt1" Content="Pencil" HorizontalAlignment="Left" Margin="42,30,0,0" VerticalAlignment="Top" Height="31" Width="106" Checked="bnt1_Checked"/>
+        <RadioButton x:Name="btn2" Content="Pen" HorizontalAlignment="Left" Margin="42,66,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="btn3" Content="Phone" HorizontalAlignment="Left" Margin="42,100,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="btn4" Content="Tablet" HorizontalAlignment="Left" Margin="42,136,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="label" HorizontalAlignment="Left" Margin="400,313,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="275" Height="37"/>
+        <Button x:Name="ButtonMail" Content="Choose" HorizontalAlignment="Left" Margin="148,332,0,0" VerticalAlignment="Top" Height="45" Width="84" Click="ButtonMail_Click"/>
+        <Image x:Name="penimg" Margin="384,107,231,136" Stretch="Fill" Source="pack://siteoforigin:,,,/pen.png"/>
+        <Image x:Name="pencilimg" Margin="477,30,99,212" Stretch="Fill" Source="pack://siteoforigin:,,,/pencil.png" RenderTransformOrigin="0.629,0.459"/>
+        <Image x:Name="phoneimg" Margin="574,10,-30,177" Stretch="Fill" Source="pack://siteoforigin:,,,/phone.png"/>
+        <Image x:Name="tabimg" Margin="250,15,355,177" Stretch="Fill" Source="pack://siteoforigin:,,,/tablet.png"/>
+    </Grid>
+</Window>
